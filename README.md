@@ -64,7 +64,7 @@ TechWave Logistics has 8,950 employees, of which 7,950 were active, 1,000 have b
 
 - The majority of the workforce operates in the HQ in New York, with 6,270 (70%).
 
-![hr-overview](./hr-overview.jpg)
+![hr-overview](./hr-overview.JPG)
 
 ### Demographic Analysis
 
@@ -78,7 +78,7 @@ TechWave Logistics has 8,950 employees, of which 7,950 were active, 1,000 have b
 
 - Bachelor's degree-holders constitute the category of employees with the best performances in different measurement scales.
 
-![demographic-analysis](./demographic-analysis.jpg)
+![demographic-analysis](./demographic-analysis.JPG)
 
 ### Income analysis
 
@@ -86,7 +86,7 @@ TechWave Logistics has 8,950 employees, of which 7,950 were active, 1,000 have b
 
 - Another significant observation from the present data is that age is positively correlated to the salary in each job position the employee holds. As an employee works upwards in each department, salary increases. 
 
-![income-analysis](./income-analysis.jpg)
+![income-analysis](./income-analysis.JPG)
 
 ## Recommendations
 
