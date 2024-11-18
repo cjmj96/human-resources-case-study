@@ -90,17 +90,24 @@ TechWave Logistics has 8,950 employees, of which 7,950 were active, 1,000 have b
 
 ## Recommendations
 
-From the insights derived on workforce, practical recommendations are as follows:
 
-- Termination cause analysis: Since 17% employees have terminated their employment in 2023, it will be of utmost importance if cause analysis into the various terminations can be done in detail. This may entail doing exit surveys and interviews to clearly state reasons and find out recurring problems.
+These are the recommendations based on the results obtained:
 
-- Induction and retention programs: Implement special retention programs in 2017 when they comprise the majority of active employees. For this program specifically, incentives, career development opportunities, or salary reviews may be granted.
+- Analysis of termination causes: The cause behind the fact that 19% of employees have ended their employment relationship this year must be determined.
 
-- Geographical diversification: Since 70% of the labor force is concentrated in Managua, seeking diversified opportunities from other regions may be worth considering. This not only diminishes dependence on one location but may also result in new business opportunities.
+- Retention programs: Create and implement retention programs for employees hired in 2017, as they represent a significant percentage of the active workforce. Incentives or opportunities for advancement within the company could be offered.
 
-- Continuing education programs: As 61% of the company's personnel hold a bachelor's degree, the need to continue furthering their education by offering continuing education programs would allow such personnel an opportunity for growth in their professional fields and for them to build their respective skill sets. It would also mean courses in specific areas or soft skill subjects like leadership and teamwork.
+- Geographical expansion: Given that 72% of employees are concentrated in Managua, exploring opportunities to diversify the workforce in other regions could be beneficial. This can not only reduce dependence on a single location but also open up new business opportunities.
 
-- Segmentation by age and education: The fact that over 19% of employees who graduated with a bachelor's degree fall right into the 35-44 age bracket identifies a need for deeper analysis with regard to their contribution toward the culture and performance of the organization. This could help in formulating policies which take consideration of peculiar expectations and needs of this age/educational background. Predictive analytics to forecast staff turnover, or to develop a list of people who can be promoted using it.
 
-The project was inspired by the Dashboard done by [Baraa Khatib Sakini in this video](https://www.youtube.com/watch?v=UcGF09Awm4Y).
+- Programs for ongoing training: Since 61% of workers have a bachelor's degree, it is essential to provide ongoing training so that workers can develop their abilities and progress in their jobs. This could include classes pertaining to their particular fields or soft skills like collaboration and leadership. 
+
+
+- Predictive analytics is suggested to be used in the future to either create a list of candidates for promotions or to anticipate employee turnover.  
+
+
+
+The dashboards are inspired by the one made by [Baraa Khatib Sakini in this video](https://www.youtube.com/watch?v=UcGF09Awm4Y).
+
+
  
