@@ -8,9 +8,11 @@ The organization has a huge quantity of detailed and informing HR data. This pro
 
 The following insights and recommendations touch upon salient focus areas:
 
-General analysis: Provides metrics about the total number of employees, active employees, terminated employees, etc.
-Demographic analysis: Provides metrics on the composition of the workforce.
-Revenue analysis: Provides metrics related to the salary of the workforce.
+- General analysis: Provides metrics about the total number of employees, active employees, terminated employees, etc.
+
+- Demographic analysis: Provides metrics on the composition of the workforce.
+
+- Revenue analysis: Provides metrics related to the salary of the workforce.
 
 Two dashboards were built to give management information to better the decision-making in the company, one serves general HR deployment, while the other provides a detailed insight into the employees. The data was synthetically generated using Python's Faker library. 
 
